@@ -1,4 +1,4 @@
-### 👋 Olá! Sou a Stefanny
+### 👋 Olá, sou a Stefanny!
 
  🌱 Formada em Análise e Desenvolvimento de Sistemas 
  🔭 Atualmente sou Engenheira de Dados!
